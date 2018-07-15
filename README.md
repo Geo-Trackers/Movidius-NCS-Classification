@@ -1,4 +1,4 @@
-# Movidius-NCS-scripts
+# Movidius-NCS-Classification using GoogleNet & SqueezeNet Graph
 This repo contains set of scripts for the running classification & benchmarking with Movidius NCS. 
 
 Clone this repository inside the sample directory and run the below commands for Image Classification using Movidius NCS
