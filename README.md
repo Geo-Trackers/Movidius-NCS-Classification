@@ -1,7 +1,7 @@
 # Movidius-NCS-Classification using GoogleNet & SqueezeNet Graph
 This repo contains set of scripts for the running classification & benchmarking with Movidius NCS. 
 
-Clone this repository inside the sample directory and run the below commands for Image Classification using Movidius NCS
+Clone this repository inside the <b>sample </b> directory and run the below commands for Image Classification using Movidius NCS
 
 Example Usage: 
 
@@ -9,7 +9,7 @@ Example Usage:
 
 Using Pretrained Squeezenetgraph
 
-python movidius_ncs_classify.py --graph graphs/squeezenetgraph --dim 227 --labels synset_words.txt --image images/car.jpg 
+<b>python movidius_ncs_classify.py --graph graphs/squeezenetgraph --dim 227 --labels synset_words.txt --image images/car.jpg </b> 
 
 
 
@@ -18,7 +18,7 @@ python movidius_ncs_classify.py --graph graphs/squeezenetgraph --dim 227 --label
 
 You may also want to try using Googlenetgraph:
 
-python movidius_ncs_classify.py --graph graphs/googlenetgraph --dim 224 --labels synset_words.txt --image images/car.jpg
+<b> python movidius_ncs_classify.py --graph graphs/googlenetgraph --dim 224 --labels synset_words.txt --image images/car.jpg </b>
 
 
 
