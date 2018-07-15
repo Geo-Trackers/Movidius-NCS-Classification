@@ -1,3 +1,4 @@
+# Reference from pyimagesearch tutorials @https://www.pyimagesearch.com/2018/02/12/getting-started-with-the-intel-movidius-neural-compute-stick/
 # USAGE
 # python pi_ncs_deep_learning.py --graph graphs/squeezenetgraph --dim 227 --labels synset_words.txt --image images/barbershop.png
 # python pi_ncs_deep_learning.py --graph graphs/googlenetgraph --dim 224 --labels synset_words.txt --image images/barbershop.png
