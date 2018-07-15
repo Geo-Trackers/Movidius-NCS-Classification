@@ -1,9 +1,9 @@
 # Movidius-NCS-Classification using GoogleNet & SqueezeNet Graph
 This repo contains set of scripts for the running classification & benchmarking with Movidius NCS. 
 
-Clone this repository inside the <b>sample </b> directory and run the below commands for Image Classification using Movidius NCS
+Clone this repository inside the <b>sample </b> directory, <b> plug in Movidius NCS on Raspberry Pi </b> and run the below commands for Image Classification using Movidius NCS
 
-Example Usage: 
+
 
 # Example USAGE
 
